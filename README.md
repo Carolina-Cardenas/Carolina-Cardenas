@@ -2,7 +2,7 @@
 
 # Hi, I'm Carolina Cárdenas
 
-  Based in **Solna, Sweden**  
+  Based in Stockolm, Sweden**  
   Currently studying **Frontend Development (on my path to Fullstack)** at [Folkuniversitetet](https://www.folkuniversitetet.se/)  
   Looking for an **LIA internship** in 2026:  
 - **First LIA:** Week 2 – Week 10  
