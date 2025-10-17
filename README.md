@@ -5,8 +5,8 @@
   Based in Stockolm, Sweden**  
   Currently studying **Frontend Development (on my path to Fullstack)** at [Folkuniversitetet](https://www.folkuniversitetet.se/)  
   Looking for an **LIA internship** in 2026:  
-- **First LIA:** Week 2 – Week 10  
-- **Second LIA:** Week 15 – Week 24  
+- **First Practice:** January 5th to March 6th 
+- **Second Practice:** April 6th to June 5th
 
 📫 **Reach me at:** carolina.beatriz.cardenas@gmail.com  
 🔗 **GitHub • LinkedIn • Portfolio**
